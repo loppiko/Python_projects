@@ -1,0 +1,1 @@
+{'nick': 'no one', 'rekord': 0, 'rekord-computer': 0}
